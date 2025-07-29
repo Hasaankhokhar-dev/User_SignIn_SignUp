@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "813380583818",
+    "firebase_url": "https://qickchatapp-default-rtdb.firebaseio.com",
+    "project_id": "qickchatapp",
+    "storage_bucket": "qickchatapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813380583818:android:db73a55f10b4a4fc86c873",
+        "android_client_info": {
+          "package_name": "com.example.notificationandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJrHMkP8NryD_g_Cq0T9S3m_cV-Mmw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813380583818:android:d877c8cf6c49325886c873",
+        "android_client_info": {
+          "package_name": "com.example.pp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJrHMkP8NryD_g_Cq0T9S3m_cV-Mmw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813380583818:android:392468163c5fcc3686c873",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJrHMkP8NryD_g_Cq0T9S3m_cV-Mmw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813380583818:android:e15aad95c55dbbb686c873",
+        "android_client_info": {
+          "package_name": "com.example.signin_up"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGJrHMkP8NryD_g_Cq0T9S3m_cV-Mmw1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
